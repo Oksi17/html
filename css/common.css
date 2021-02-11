@@ -1,0 +1,47 @@
+h1 {
+    color: darkgreen;
+}
+
+h2 {
+    color: olivedrab;
+}
+
+ul {
+    color: darkolivegreen;
+}
+
+ol {
+    color: olive;
+}
+
+form {
+    color: olivedrab;
+}
+
+footer {
+    color: darkslategrey;
+}
+
+p {
+    color: forestgreen;
+}
+
+.border {
+    border: 3px solid olivedrab;
+}
+
+h1 {
+    margin-right: 870px;
+    margin-left: 110px;
+}
+
+footer {
+    transform: rotate(-10deg);
+}
+h2:hover{
+    text-decoration: underline;
+   cursor: pointer;
+}
+p::first-letter{
+    font-size: 1.5rem;
+}
