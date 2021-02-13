@@ -40,8 +40,17 @@ footer {
 }
 h2:hover{
     text-decoration: underline;
-   cursor: pointer;
+    cursor: pointer;
 }
 p::first-letter{
     font-size: 1.5rem;
+}
+#chosen{
+    position: relative;    
+    left: 200px;
+}
+div h1{
+    position: fixed;
+top: 0;
+right: 0;
 }
